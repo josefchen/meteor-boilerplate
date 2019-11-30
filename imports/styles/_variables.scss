@@ -1,0 +1,31 @@
+//colors
+$grey: #dddddd;
+$lightgrey: #f9f9f9;
+$darkgrey: #777777;
+$white: #ffffff;
+$green: #478f71;
+$red: #a32035;
+
+//spacing
+$space: 1.2rem;
+$site-max-width: 60rem;
+
+//Boxed view
+$boxed-view-overlay-bg: $grey;
+$boxed-view-bg: $white;
+$base-font-size: 1.5rem;
+
+//form inputs
+$input-border: $grey;
+$input-spacing: 1rem;
+
+//button
+$button-background: $green;
+$button-background-secondary: $red;
+
+//item
+$item-background: $lightgrey;
+$item-border: 1px solid darken($lightgrey, 10%);
+$item-text-color: $darkgrey;
+
+
